@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+joblib
+tensorflow
+osmnx
+networkx
+folium
+geopandas
+shapely 
